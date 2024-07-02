@@ -4,8 +4,7 @@
 I conducted this analysis as my final project for EPS 88 at UC Berkeley. I analyzed 75 years of hydrological data from three stream/river stations in New Jersey to contextualize the magnitude of recent flooding events and evaluate the impact of climate change on flood recurrence.
 
 ## Project Contents
-1. **Notebook**: A Jupyter notebook (`FloodDataAnalysis.ipynb`) containing additional context and background research, the data analysis, and the respective visualizations.
-2. **Datasets**: Three datasets with mean daily stream/river discharge data from 1947 to 2022.
+1. **Notebook**: A Jupyter notebook (`FloodDataAnalysis.ipynb`) containing additional context and background research, queries to download three USGS datasets with mean daily stream/river discharge data from 1947 to 2022, analysis of the data, and the respective visualizations.
 
 ## Description
 Floods are the deadliest meteorological phenomena in the United States, with extreme flooding events recorded with increased frequency. This project examines the annual maximum flood events in New Jersey and calculates their exceedance probabilities and recurrence intervals. The analysis uses three representative hydrological stations in northern, central, and southern New Jersey, representing various water body types (stream, creek, and river).
